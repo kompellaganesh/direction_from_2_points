@@ -1,0 +1,8 @@
+server:
+    env: dev
+    host: "0.0.0.0"
+    port: "80"
+    apipath: "/directions"
+MapsAPI:
+    URL: https://maps.googleapis.com/maps/api/directions/json
+    APIKEY: AIzaSyAEQvKUVouPDENLkQlCF6AAap1Ze-6zMos
